@@ -1,0 +1,8 @@
+{
+  "name": "MedTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "1a8da6d8"
+}
